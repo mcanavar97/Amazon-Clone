@@ -8,4 +8,5 @@ Responsive design.
 - CSS: Style and design.
 
 # Preview
-![](Amazon-Clone-Gif.gif)
+![](![Uploading amazon-clone-gif.gif…]()
+
